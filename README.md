@@ -13,25 +13,29 @@
 
 ### 🪟 Windows
 
-1. [Node.js 18 버전 설치](https://nodejs.org/) (관리자 권한으로 진행하세요!!)
+1. [Git 설치](https://git-scm.com/download/win)  
+   - Git을 설치한 후, 명령 프롬프트 또는 PowerShell에서 `git --version`으로 정상 설치 확인.
+   
+2. [Node.js 18 버전 설치](https://nodejs.org/) (관리자 권한으로 진행하세요!!)
    - 설치 후, 터미널(명령 프롬프트/PowerShell)에서 아래 명령어로 정상 설치 확인:
    ```bash
    node --version
    ```
 
-2. 프로젝트 폴더로 이동:
+3. Git 레포지토리 클론:
    ```bash
-   cd <파일_경로>
+   git clone <레포지토리_URL>
+   cd <클론한_프로젝트_폴더>
    ```
 
-3. 의존성 설치:
+4. 의존성 설치:
    ```bash
    npm install
    ```
 
-4. `.env` 파일에 API 키(토큰 등) 입력
+5. `.env` 파일에 API 키(토큰 등) 입력
 
-5. 실행:
+6. 실행:
    ```bash
    node bot.js
    ```
@@ -40,24 +44,21 @@
 
 ### 🐧 Ubuntu
 
-1. 시스템 업데이트:
+1. Git 설치:
+   ```bash
+   sudo apt install git
+   ```
+
+2. [Node.js 및 npm 설치](https://nodejs.org/)  
    ```bash
    sudo apt update
-   ```
-
-2. Node.js 및 npm 설치:
-   ```bash
    sudo apt install -y nodejs npm
    ```
-   설치 후 버전 확인:
-   ```bash
-   node --version
-   npm --version
-   ```
 
-3. 프로젝트 폴더로 이동:
+3. Git 레포지토리 클론:
    ```bash
-   cd <프로젝트_폴더>
+   git clone <레포지토리_URL>
+   cd <클론한_프로젝트_폴더>
    ```
 
 4. 의존성 설치:
@@ -77,9 +78,9 @@
 
 ### 📱 Termux (Android)
 
-1. 패키지 업데이트:
+1. Git 설치:
    ```bash
-   pkg update && pkg upgrade
+   pkg install git
    ```
 
 2. Node.js 설치:
@@ -87,9 +88,10 @@
    pkg install nodejs
    ```
 
-3. 프로젝트 폴더로 이동:
+3. Git 레포지토리 클론:
    ```bash
-   cd <프로젝트_폴더>
+   git clone <레포지토리_URL>
+   cd <클론한_프로젝트_폴더>
    ```
 
 4. 의존성 설치:
@@ -122,25 +124,29 @@ The idea is mine, but I got help from AI for the coding.
 
 ### 🪟 Windows
 
-1. [Install Node.js version 18](https://nodejs.org/) (Please proceed with administrator rights!!)
-   - After installation, verify by running the following command in Command Prompt or PowerShell:
+1. [Install Git](https://git-scm.com/download/win)  
+   - After installing Git, verify by running `git --version` in Command Prompt or PowerShell.
+
+2. [Install Node.js version 18](https://nodejs.org/) (Please proceed with administrator rights!!)
+   - After installation, verify by running:
    ```bash
    node --version
    ```
 
-2. Move to the project folder:
+3. Clone the repository:
    ```bash
-   cd <project_path>
+   git clone <repository_URL>
+   cd <cloned_project_folder>
    ```
 
-3. Install dependencies:
+4. Install dependencies:
    ```bash
    npm install
    ```
 
-4. Enter your API key (e.g., token) in the `.env` file
+5. Enter your API key (e.g., token) in the `.env` file
 
-5. Run the bot:
+6. Run the bot:
    ```bash
    node bot.js
    ```
@@ -149,24 +155,21 @@ The idea is mine, but I got help from AI for the coding.
 
 ### 🐧 Ubuntu
 
-1. Update the system:
+1. Install Git:
+   ```bash
+   sudo apt install git
+   ```
+
+2. [Install Node.js and npm](https://nodejs.org/)
    ```bash
    sudo apt update
-   ```
-
-2. Install Node.js and npm:
-   ```bash
    sudo apt install -y nodejs npm
    ```
-   After installation, verify with:
-   ```bash
-   node --version
-   npm --version
-   ```
 
-3. Move to the project folder:
+3. Clone the repository:
    ```bash
-   cd <project_folder>
+   git clone <repository_URL>
+   cd <cloned_project_folder>
    ```
 
 4. Install dependencies:
@@ -186,9 +189,9 @@ The idea is mine, but I got help from AI for the coding.
 
 ### 📱 Termux (Android)
 
-1. Update packages:
+1. Install Git:
    ```bash
-   pkg update && pkg upgrade
+   pkg install git
    ```
 
 2. Install Node.js:
@@ -196,9 +199,10 @@ The idea is mine, but I got help from AI for the coding.
    pkg install nodejs
    ```
 
-3. Move to the project folder:
+3. Clone the repository:
    ```bash
-   cd <project_folder>
+   git clone <repository_URL>
+   cd <cloned_project_folder>
    ```
 
 4. Install dependencies:
