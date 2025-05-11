@@ -25,17 +25,20 @@
 3. Git 레포지토리 클론:
    ```bash
    git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
+   ```
+3-1. 파일로 경로 이동
+   ```bash
    cd gemini-Discord-gemini-bot
    ```
 
-4. 의존성 설치:
+5. 의존성 설치:
    ```bash
    npm install
    ```
 
-5. `.env` 파일에 API 키(토큰 등) 입력
+6. `.env` 파일에 API 키(토큰 등) 입력
 
-6. 실행:
+7. 실행:
    ```bash
    node bot.js
    ```
@@ -58,18 +61,21 @@
 3. Git 레포지토리 클론:
    ```bash
    git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
+   ```
+3-1 경로 이동
+   ```bash
    cd gemini-Discord-gemini-bot
    ```
 
-4. 의존성 설치:
+5. 의존성 설치:
    ```bash
    npm install
    ```
 
-5. `.env` 파일에 API 키(토큰 등) 입력  
+6. `.env` 파일에 API 키(토큰 등) 입력  
    - `.env` 파일 작성법은 Windows와 동일합니다.
 
-6. 실행:
+7. 실행:
    ```bash
    node bot.js
    ```
@@ -91,18 +97,21 @@
 3. Git 레포지토리 클론:
    ```bash
    git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
+   ```
+3-1.경로이동
+   ```bash
    cd gemini-Discord-gemini-bot
    ```
 
-4. 의존성 설치:
+5. 의존성 설치:
    ```bash
    npm install
    ```
 
-5. `.env` 파일에 API 키(토큰 등) 입력  
+6. `.env` 파일에 API 키(토큰 등) 입력  
    - Termux에서도 `.env` 파일 위치와 작성법은 동일합니다.
 
-6. 실행:
+7. 실행:
    ```bash
    node bot.js
    ```
@@ -136,7 +145,10 @@ The idea is mine, but I got help from AI for the coding.
 3. Clone the repository:
    ```bash
    git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
-   cd gemini-Discord-gemini-bot
+   ```
+3-1.Route movement 
+   ```bash 
+   cd gemini-Discord-gemini-bot 
    ```
 
 4. Install dependencies:
@@ -169,7 +181,10 @@ The idea is mine, but I got help from AI for the coding.
 3. Clone the repository:
    ```bash
    git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
-   cd gemini-Discord-gemini-bot
+   ```
+3-1.Route movement 
+   ```bash 
+   cd gemini-Discord-gemini-bot 
    ```
 
 4. Install dependencies:
@@ -202,7 +217,10 @@ The idea is mine, but I got help from AI for the coding.
 3. Clone the repository:
    ```bash
    git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
-   cd gemini-Discord-gemini-bot
+   ```
+3-1.Route movement 
+   ```bash 
+   cd gemini-Discord-gemini-bot 
    ```
 
 4. Install dependencies:
