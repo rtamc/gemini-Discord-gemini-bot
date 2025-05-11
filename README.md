@@ -24,8 +24,8 @@
 
 3. Git 레포지토리 클론:
    ```bash
-   git clone <레포지토리_URL>
-   cd <클론한_프로젝트_폴더>
+   git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
+   cd gemini-Discord-gemini-bot
    ```
 
 4. 의존성 설치:
@@ -57,8 +57,8 @@
 
 3. Git 레포지토리 클론:
    ```bash
-   git clone <레포지토리_URL>
-   cd <클론한_프로젝트_폴더>
+   git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
+   cd gemini-Discord-gemini-bot
    ```
 
 4. 의존성 설치:
@@ -90,8 +90,8 @@
 
 3. Git 레포지토리 클론:
    ```bash
-   git clone <레포지토리_URL>
-   cd <클론한_프로젝트_폴더>
+   git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
+   cd gemini-Discord-gemini-bot
    ```
 
 4. 의존성 설치:
@@ -135,8 +135,8 @@ The idea is mine, but I got help from AI for the coding.
 
 3. Clone the repository:
    ```bash
-   git clone <repository_URL>
-   cd <cloned_project_folder>
+   git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
+   cd gemini-Discord-gemini-bot
    ```
 
 4. Install dependencies:
@@ -168,8 +168,8 @@ The idea is mine, but I got help from AI for the coding.
 
 3. Clone the repository:
    ```bash
-   git clone <repository_URL>
-   cd <cloned_project_folder>
+   git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
+   cd gemini-Discord-gemini-bot
    ```
 
 4. Install dependencies:
@@ -201,8 +201,8 @@ The idea is mine, but I got help from AI for the coding.
 
 3. Clone the repository:
    ```bash
-   git clone <repository_URL>
-   cd <cloned_project_folder>
+   git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
+   cd gemini-Discord-gemini-bot
    ```
 
 4. Install dependencies:
