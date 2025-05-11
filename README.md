@@ -13,6 +13,7 @@
 
 ### 🪟 Windows
 
+0-1. notepad++(https://notepad-plus-plus.org/downloads/) [ 다운받아서 사용하시길 (.env 열때 메모장 쓰셔도 되긴해요..]
 1. [Node.js 18 버전 설치](https://nodejs.org/) (관리자 권한으로 진행하세요!!)
    - 설치 후, 터미널(명령 프롬프트 또는 PowerShell)에서 아래 명령어로 정상 설치 확인:
      ```bash
@@ -132,7 +133,7 @@ Once tested, I’ll mark verified OSes with a 🛡️ symbol.*)
 ## 🔗 Installation Guide by OS
 
 ### 🪟 Windows
-
+0-1. Notepad++ (https://notepad-plus-plus.org/downloads/) [Download and use it. (You can also use Notepad to open .env files if you prefer.)]
 1. Install [Node.js (version 18)](https://nodejs.org/) (Run as Administrator!)  
    - After installation, verify with:
      ```bash
