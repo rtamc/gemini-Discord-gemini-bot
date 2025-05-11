@@ -1,7 +1,7 @@
 # gemini-Discord-gemini-bot
 
 어서오세요!  
-비전문가가 만든 Node.js 기반 Discord 봇입니다.  
+비전문가가 만든 Node.js 기반 ai Discord 봇입니다.  
 아이디어는 제 것이지만, 코딩은 AI의 도움을 받았습니다.
 
 (안타깝게도 저는 호스팅 사이트를 사용해서 OS별 설치법이 완전 작동한다고는 보증 못합니다)  
@@ -122,7 +122,7 @@
    # gemini-Discord-gemini-bot
 
 Welcome!  
-This is a Node.js-based Discord bot created by a non-expert.  
+This is a Node.js-based ai Discord bot created by a non-expert.  
 The ideas are mine, but I got help from AI to write the code.
 
 (*Note: I use a hosting platform, so I can't guarantee that these installation steps work perfectly on every OS.  
