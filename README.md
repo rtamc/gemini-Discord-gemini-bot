@@ -27,9 +27,9 @@
    git clone https://github.com/rtamc/gemini-Discord-gemini-bot.git
    ```
  3-1. 파일로 경로 이동
-    ```bash
-    cd gemini-Discord-gemini-bot
-    ```
+ ```bash
+ cd gemini-Discord-gemini-bot
+ ```
 
 5. 의존성 설치:
    ```bash
