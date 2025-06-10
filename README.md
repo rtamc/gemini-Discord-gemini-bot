@@ -13,7 +13,7 @@
 
 ### 🪟 Windows🛡️
 
-0-1. Notepad++(https://notepad-plus-plus.org/downloads/)를 다운로드하여 사용하는 것이 조금 더 좋습니다. (Notepad++는 .env 파일을 여는 데 사용되지만, 일반 메모장으로도 열 수 있습니다.)
+0-1. Notepad++( https://notepad-plus-plus.org/downloads/ ) 를 다운로드하여 사용하는 것이 조금 더 좋습니다. (Notepad++는 .env 파일을 여는 데 사용되지만, 일반 메모장으로도 열 수 있습니다.)
 1. [Node.js 18 버전 설치](https://nodejs.org/) (관리자 권한으로 진행하세요!!)
    - 설치 후, 터미널(명령 프롬프트 또는 PowerShell)에서 아래 명령어로 정상 설치 확인:
      ```bash
