@@ -133,7 +133,7 @@ Once tested, I’ll mark verified OSes with a 🛡️ symbol.*)
 ## 🔗 Installation Guide by OS
 
 ### 🪟 Windows🛡️
-0-1. It's a little better to download and use Notepad++(https://notepad-plus-plus.org/downloads/). (Notepad++ is used to open .env files, but you can also open them with regular Notepad.)
+0-1. It's a little better to download and use Notepad++( https://notepad-plus-plus.org/downloads/ ). (Notepad++ is used to open .env files, but you can also open them with regular Notepad.)
 1. Install [Node.js (version 18)](https://nodejs.org/) (Run as Administrator!)  
    - After installation, verify with:
      ```bash
